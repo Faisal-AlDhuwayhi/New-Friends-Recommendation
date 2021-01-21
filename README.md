@@ -31,7 +31,7 @@ The program is divided into multiple components, which are:
 4. **The friends recommender**: That would be implemented in the class Recommender that implements the two friends recommendation methods discussed above.
 
 
-- Finally, the structure of the social network (Which user is connected with who) is given in a [**text file**](Code/graph.txt). Also, the output of the main class -the test class of the program- could be found [**here**](Code/MainOutput.txt).
+- Finally, the structure of the social network (Which user (node) is connected with who) is given in a [**text file**](Code/graph.txt). Also, the expected output after running the program -The output of Main class- could be found [**here**](Code/MainOutput.txt).
 
 --- 
 **Example Figure of a Graph Representing a Social Network:**
